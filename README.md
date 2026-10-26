@@ -75,3 +75,6 @@ The manual lives in [`manual/`](manual/), which is its authoritative source.
 ## License
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
+## Fork maintenance and AI assistance
+
+Codex assisted with source synchronization and verification in this fork. Automatic translation, calls to paid providers and translation PR publication are restricted to the upstream repository; this fork keeps those operational jobs inactive.
